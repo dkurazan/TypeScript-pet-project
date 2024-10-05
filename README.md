@@ -5,7 +5,7 @@ A mentoring platform app implemented with React and TypeScript to practice my TS
 # Live Demo
 
 Check out the live demo at
-[*](*)
+[https://mentoring-platform-seven.vercel.app/](https://mentoring-platform-seven.vercel.app/)
 
 ## Requirements
 
